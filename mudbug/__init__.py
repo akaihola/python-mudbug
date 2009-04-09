@@ -1,1 +1,2 @@
-__version__ = '0.01'
+VERSION = (0, 0, 2)
+__version__ = '%d.%d%d' % VERSION
